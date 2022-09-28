@@ -4,6 +4,10 @@ Firstly, I want to say sorry that I didn't use the templete on canvas but the sc
 
 
 
+
+
+
+
 Mouse Position - !!!Move the mouse out of the window will erase everything!!! (I intensionally add this)
 
 Up Arrow - Increases brush radius by Mysterious but constant pixels
