@@ -1,6 +1,6 @@
 # Game230_Assignment1
 
-Firstly, I want to say sorry that I didn't use the templete on canvas but the script we finished in the classroom director.
+Firstly, I want to say sorry that I didn't use the templete on canvas but the script we finished in the classroom directly.
 
 
 
