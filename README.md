@@ -1,6 +1,6 @@
 # Game230_Assignment1
 
-Firstly, I want to say sorry that I didn't use the templete on canvas but the script we finished in the classroom directly.
+Firstly, I want to say sorry that I didn't use the template on canvas but the script we finished in the classroom directly.
 
 
 
@@ -8,7 +8,7 @@ Firstly, I want to say sorry that I didn't use the templete on canvas but the sc
 
 
 
-Mouse Position - !!!Move the mouse out of the window will erase everything!!! (I intensionally add this)
+Mouse Position - !!!Moving the mouse out of the window will erase everything!!! (I intensionally add this)
 
 Up Arrow - Increases brush radius by Mysterious but constant pixels
 
@@ -22,4 +22,5 @@ Mouse Right Button - Press to change brush color to red, release to change the c
 
 Mouse Middle Wheel - Press to change brush color to green, release to change the color back to white
 
-PageDown Button - re-addes the outline of the brush
+PageDown Button - re-add the outline of the brush
+
